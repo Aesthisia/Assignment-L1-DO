@@ -13,6 +13,7 @@ One of our clients named ClientX, wants to host their react based application ov
 
 #### Task
 Use source code from 'aesthisia-demo/' directory & use the src to build docker image for the same. 
+To run the app, use command: 'npm start'
 Run the docker image on port 3000 & check the output on 'http://localhost:3000'
 
 #### Expected Output
